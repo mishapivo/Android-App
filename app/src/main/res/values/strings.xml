@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">Audacity</string>
-    <string name="company_name">Audacity IT Solutions</string>
+    <string name="app_name">My Resume</string>
+    <string name="company_name">Aquarius Farm</string>
     <string name="navigation_drawer_open">Open</string>
     <string name="navigation_drawer_close">Close</string>
-    <string name="nav_text_overview">Overview</string>
-    <string name="nav_text_portfolio">Portfolio</string>
-    <string name="nav_text_team">Team</string>
-    <string name="nav_text_clients">Clients</string>
-    <string name="nav_text_methodology">Methodology</string>
-    <string name="nav_text_testimonial">Testimonial</string>
-    <string name="nav_text_social">Social</string>
+    <string name="nav_text_overview">Общая информация</string>
+    <string name="nav_text_portfolio">Портфолио</string>
+    <string name="nav_text_team">Команда</string>
+    <string name="nav_text_clients">Клиенты</string>
+    <string name="nav_text_methodology">Методология</string>
+    <string name="nav_text_testimonial">Рекомендации</string>
+    <string name="nav_text_social">Соц.аккаунты</string>
     <string name="nav_text_faq">FAQ</string>
     <string name="text_get_started">Get Started</string>
     <string name="empty_string">\u0020</string>
@@ -30,9 +30,9 @@
     <string name="text_completed">\nCompleted</string>
     <string name="text_in_queue">\nIn Queue</string>
     <string name="text_waiting">\nWaiting</string>
-    <string name="dummy_overview_title">Basic Info</string>
-    <string name="dummy_overview_infrastructure">Infrastructure</string>
-    <string name="dummy_overview_location">Location</string>
+    <string name="dummy_overview_title">Краткое содержание</string>
+    <string name="dummy_overview_infrastructure">Личная информация</string>
+    <string name="dummy_overview_location">Хобби</string>
     <string name="dummy_overview_body">BASIS Membership ID: G682 \nTrade License No: 020148475\nTIN:442670895657</string>
     <string name="bummy_comments">Audacity IT Solutions have a very “Can Do” attitude with a very professional and attention to detail quality in every bit of work they do. The quality of product they have provided for me is world class.</string>
     <string name="dummy_methodology_body">We develop a one-page business model that captures your vision and golas, and we use it to create
@@ -47,7 +47,7 @@
     <string name="text_youtube">Youtube</string>
     <string name="dev_mail">founders@audacityit.com</string>
     <string name="dev_web_page">www.audacityit.com</string>
-    <string name="dev_phone">+8801670-923581</string>
+    <string name="dev_phone">+380668037543</string>
     <string name="dev_fb">https://www.facebook.com/audacityit</string>
     <string name="dev_linked_in">https://www.linkedin.com/company/audacity-it-solution</string>
     <string name="dev_twitter">https://twitter.com/audacity_it_ltd</string>
